@@ -1,1 +1,4 @@
-# 30-days-of-problem-solving-with-python
+# 30 Days of Problem Solving with Python
+
+| Day | Date | Comments |
+| --- | ---- | -------- |
